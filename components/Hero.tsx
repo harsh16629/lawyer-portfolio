@@ -17,7 +17,7 @@ const Hero = () => {
         >
           <div className="md:w-1/3 mb-8 md:mb-0">
             <Image
-              src="/images/hero2.jpg"
+              src="/images/hero1.jpg"
               alt="Devina Jain"
               width={750}
               height={750}
